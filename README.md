@@ -26,6 +26,8 @@ This project involves designing an automatic vehicle capable of extinguishing fi
 
 ## Demonstrations
 
+![Trunk](https://github.com/HaoliangCheng/autonoumous_fire_trunk/blob/main/Trunk.jpg)
+
 - [Electronic Fire Truck - Video 1](https://pitt-my.sharepoint.com/:v:/g/personal/hac177_pitt_edu/EdDe6oBgNolIj3-Onj_cGqABSZwztcDfOMTK1QjSDwKOQQ?e=fPLpvU)
 - [Electronic Fire Truck - Video 2](https://pitt-my.sharepoint.com/:v:/g/personal/hac177_pitt_edu/ESQ6Jff9QNxNl95hDDQGbgUBS2vI5qwkJS4UKRkYVnV_IA?e=5XtHZe)
 - [Electronic Fire Truck - Video 3](https://pitt-my.sharepoint.com/:v:/g/personal/hac177_pitt_edu/EUPCuWiiIm1Ph4TVehnp1F0BpinQeMrDtCggSQCe5IwimA?e=DvTfUz)

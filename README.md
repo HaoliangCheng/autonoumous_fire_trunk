@@ -18,11 +18,11 @@ This project involves designing an automatic vehicle capable of extinguishing fi
 
 ## System Operation Flowchart
 
-![Flowchart](path/to/flowchart/image)
+![Flowchart](https://github.com/HaoliangCheng/autonoumous_fire_trunk/blob/main/flowchart.png)
 
 ## Circuit Schematic
 
-![Circuit Schematic](path/to/circuit/schematic/image)
+![Circuit Schematic](https://github.com/HaoliangCheng/autonoumous_fire_trunk/blob/main/circuit.png)
 
 ## Video Demonstrations
 

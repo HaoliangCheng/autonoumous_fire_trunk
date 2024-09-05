@@ -34,6 +34,5 @@ This project involves designing an automatic vehicle capable of extinguishing fi
 
 ---
 
-Feel free to reach out to us for any questions or support.
 
 
